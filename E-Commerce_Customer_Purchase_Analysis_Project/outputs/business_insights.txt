@@ -1,0 +1,20 @@
+Total Customers: 4312
+Top Customer: 18102.0
+Top Customer Spending: 349164.35
+Product Category Analysis: Not available - dataset does not contain a Category column
+Best Sales Month: November
+Best Month Revenue: 1166460.02
+Average Customer Lifetime Value: 2040.41
+Top Customer Revenue: 349164.35
+Total Orders: 19213
+Total Sales: 8798233.74
+Total Revenue: 8798233.74
+Total Quantity Sold: 5519578
+Average Order Value: 457.93
+Highest Transaction Revenue: 15818.4
+Lowest Transaction Revenue: 0.0
+Best Product: WHITE HANGING HEART T-LIGHT HOLDER
+Best Product Revenue: 151339.16
+Product Profitability: Actual profitability not available - dataset does not contain product cost data
+Best Country: United Kingdom
+Cancelled Transactions: 0
